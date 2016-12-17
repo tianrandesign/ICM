@@ -1,0 +1,59 @@
+html, body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background-color:#000;
+}
+.text{color:#0bb70f; font-size:14px;}
+.avatar{width:50px; height:50px; border-radius:50%; overflow:hidden;}
+.avatar2{border-radius:50%;border:3px solid rgba(0,0,255,0.7);;overflow:hidden;}
+.avatar3{border-radius:50%;border:3px solid rgba(255,0,0,0.7);;overflow:hidden;}
+.text2 {
+        /*border-style: solid;*/
+/*        border-width: 1px;*/
+        border-top:5px solid #0000ff;
+        margin: 0px;
+        padding: 30px 0 10px 10px;
+        color: 0;
+        background-color: rgba(255,255,255,0.8);
+        font-size: 13px;
+}   
+
+.text2_name {
+        /*border-style: solid;*/
+/*        border-width: 1px;*/
+        font-weight: bold;
+        margin: 0px;
+        padding: 20px 0 20px 10px;
+        color: 0;
+        font-size: 13px;
+} 
+
+.text3 {
+        border-top:5px solid #ff0000;
+        margin: 0px;
+        padding: 30px 0 10px 10px;
+        width: 500px;
+        color: 0;
+        background-color:  rgba(255,255,255,0.8);
+        font-size: 13px;
+}
+
+.text3_name {
+        /*border-style: solid;*/
+/*        border-width: 1px;*/
+        font-weight: bold;
+        margin: 0px;
+        padding: 20px 0 20px 10px;
+        color: 0;
+        font-size: 13px;
+} 
+
+p.text2{
+	display = 'block';
+	width: 300px;
+}
+p.text3{
+	display = 'block';
+	width: 300px;
+}
